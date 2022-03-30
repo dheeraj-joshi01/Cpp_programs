@@ -1,0 +1,27 @@
+hey
+
+
+this is input.txt
+
+writing to output.txt
+
+-----------------------------------------------END OF FILE----------------------------------
+
+hey
+
+
+this is input.txt
+
+writing to output.txt
+
+-----------------------------------------------END OF FILE----------------------------------
+
+hey
+
+
+this is input.txt
+
+writing to output.txt
+
+-----------------------------------------------END OF FILE----------------------------------
+
